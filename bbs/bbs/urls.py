@@ -24,3 +24,5 @@ urlpatterns = [
     url(r'^post/list/', post_views.post_list),
     url(r'^post/search/', post_views.search),
 ]
+
+
