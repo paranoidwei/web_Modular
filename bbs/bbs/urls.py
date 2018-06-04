@@ -25,3 +25,4 @@ urlpatterns = [
     url(r'^post/search/', post_views.search),
 ]
 
+
